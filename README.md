@@ -1,11 +1,11 @@
-# Calculator App
+# Journal App
 
 ## This is a website where a user can write entries for a journal, 5/09/2017
 
 ## By **[Peter Maina](https://github.com/petersoleeh) and [Carol Wanjohi](https://carolwanjohi.github.io/)**
 
 ## Description
-This is a website where a user can write entries for a journal. Afeter fillin the title and body sections, the user can click the enter button to save their entry.
+This is a website where a user can write entries for a journal. After filling in the title and body sections, the user can click the enter button to save their entry.
 
 ## How Journal App Works
 
@@ -17,7 +17,7 @@ This is a website where a user can write entries for a journal. Afeter fillin th
 | Count the number of consonants in the title | Title: Groot | 3 |
 | Count the number of verbs in the body | Body: I am Groot. | 4 |
 | Count the number of consonants in the body | Body: I am Groot. | 4 |
-| Show the fisrts 8 words in a body entry | Body: I am Groot from Groot. I love Groot. Groot also loves Mr. Blue Sky. | am Groot from Groot. I love Groot. |
+| Show the first 8 words in a body entry | Body: I am Groot from Groot. I love Groot. Groot also loves Mr. Blue Sky. | I am Groot from Groot. I love Groot. |
 
 ## Known Bugs
 
